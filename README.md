@@ -7,3 +7,21 @@ My name is Aseel Farrar. I graduated with a BSc degree in Computer engineering f
 [GitHup Account](https://github.com/aseel-farrar)
 
 ***
+what I leaned:
+1. Some of Command Line commands:
+    * pwd: stands for Print Working Directory, and It tells you what your current or present working directory is.
+
+    * Ls: It listed the contents of our current directory
+
+    * ls -l: indicates we are going to do a long listing
+
+    * ls /etc: it tells ls not to list our current directory but instead to list that directories contents
+
+    * ls -l /etc: it did a long listing of the directory /etc
+
+    * cd: Change Directories
+
+    * ls -a: List the contents of a directory, including hidden files.
+
+2. 
+
