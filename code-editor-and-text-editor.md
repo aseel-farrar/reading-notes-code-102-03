@@ -6,4 +6,6 @@ A code editor is, of course, able to do all of the above, and more. The "more" p
 Often, it offers syntax highlighting, code snippets, autocompletion, perhaps simple error detection (like unclosed string), more advanced navigation (jump to matching brace / bracket / parenthesis / tag), perhaps auto-indentation, etc.
 
 ***
-*[Back](README.md)*
+Go back
+
+[Back](README.md)

@@ -13,4 +13,6 @@
   
 ***
 
-*[Back](README.md)*
+Go back
+
+[Back](README.md)

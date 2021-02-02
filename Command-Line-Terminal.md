@@ -16,4 +16,6 @@
 ![Command Line pic](https://miro.medium.com/max/448/1*Fq0GuTM3LZ7S6I_mW1hD9A.png)
 
 ***
-*[Back](README.md)*
+Go back
+
+[Back](README.md)
