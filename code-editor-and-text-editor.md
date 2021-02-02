@@ -4,5 +4,6 @@ A text editor just display plain text in one color (black on white, usually, oft
 
 A code editor is, of course, able to do all of the above, and more. The "more" part is, unsurprisingly, aimed at editing source code (programs, textual data like Json or XML, etc.).
 Often, it offers syntax highlighting, code snippets, autocompletion, perhaps simple error detection (like unclosed string), more advanced navigation (jump to matching brace / bracket / parenthesis / tag), perhaps auto-indentation, etc.
+
 ***
-[Back](README.md)
+*[Back](README.md)*

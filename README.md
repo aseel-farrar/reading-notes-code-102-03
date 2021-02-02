@@ -9,7 +9,7 @@ My name is Aseel Farrar. I graduated with a BSc degree in Computer engineering f
 
 ***
 
-### **What I leaned**:
+### **New topics I leaned**:
 1. [What are ***Code Editor & Text Editor*** and the differance between them.](code-editor-and-text-editor.md)
 
 2. [What is ***Command Line Terminal*** , and some of it's commands.](Command-Line-Terminal.md)
