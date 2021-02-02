@@ -1,4 +1,4 @@
-***Command Line Terminal*** , and some of it's commands such as:
+## 2. ***Command Line Terminal*** , and some of it's commands such as:
     * pwd: stands for Print Working Directory, and It tells you what your current or present working directory is.
 
     * Ls: It listed the contents of our current directory
@@ -13,5 +13,6 @@
 
     * ls -a: List the contents of a directory, including hidden files.
 
-    <img src="https://miro.medium.com/max/448/1*Fq0GuTM3LZ7S6I_mW1hD9A.png" alt="Command Line pic" width="50%" />
-    <br>
+![Command Line pic](https://miro.medium.com/max/448/1*Fq0GuTM3LZ7S6I_mW1hD9A.png)
+***
+[Back](README.md)

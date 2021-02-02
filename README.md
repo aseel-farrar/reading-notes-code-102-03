@@ -10,8 +10,8 @@ My name is Aseel Farrar. I graduated with a BSc degree in Computer engineering f
 ***
 
 ### **What I leaned**:
-1. [What are ***Code Editor & Text Editor*** and the differance between them.](/https://aseel-farrar.github.io/reading-notes-code-102-03/code-editor-and-text-editor.md)
+1. [What are ***Code Editor & Text Editor*** and the differance between them.](code-editor-and-text-editor.md)
 
-2. [What is ***Command Line Terminal*** , and some of it's commands.](/mnt/c/Users/aseel/Desktop/asac/code102/reading-notes-code-102-03/Command-Line-Terminal.html)
+2. [What is ***Command Line Terminal*** , and some of it's commands.](Command-Line-Terminal.md)
 
-3. [What is ***MD (MarkDown)***.](/mnt/c/Users/aseel/Desktop/asac/code102/reading-notes-code-102-03/MarkDown.html)
+3. [What is ***MD (MarkDown)***.](MarkDown.md)
